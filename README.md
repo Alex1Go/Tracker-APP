@@ -18,7 +18,7 @@
 ---
 
 ## 📂 Project structure
-
+```
 Tracker-APP/
 
 ├── src/
@@ -33,7 +33,7 @@ Tracker-APP/
 ├── vite.config.js # Configuration Vite
 ├── package.json
 ├── README.md # You are reading it :)
-
+```
 ## 🚀 Quick start
 
 ### 🔧 Installation
