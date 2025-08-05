@@ -15,7 +15,7 @@ import {
   BarChart3, 
   Download, 
   Maximize2, 
-  Grid3X3,
+  Grid,
   Eye,
   EyeOff
 } from 'lucide-react';
@@ -161,7 +161,7 @@ const MetricsChart = ({ chartData, selectedExperiments, experiments }) => {
               onClick={() => setExpandedChart(null)}
               title="Grid view"
             >
-              <Grid3X3 size={16} />
+              <Grid size={16} />
             </button>
           </div>
         </div>
