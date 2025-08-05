@@ -2,6 +2,7 @@
   "name": "experiment-tracker",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://alex1go.github.io/Tracker-APP/",
   "dependencies": {
     "lodash": "^4.17.21",
     "lucide-react": "^0.263.1",
@@ -35,6 +36,7 @@
     "@vitejs/plugin-react-swc": "^3.11.0",
     "eslint": "^9.32.0",
     "eslint-plugin-react": "^7.37.5",
+    "gh-pages": "^6.3.0",
     "vite": "^7.0.6",
     "vite-plugin-eslint": "^1.8.1"
   }
