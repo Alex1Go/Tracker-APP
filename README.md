@@ -1,11 +1,6 @@
 # 🚀 Tracker-APP
 
-[![View Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://alex1go.github.io/Tracker-APP/)
-
-🔗 [Look Demo](https://alex1go.github.io/Tracker-APP/)
-
-👉 [https://alex1go.github.io/Tracker-APP/](https://alex1go.github.io/Tracker-APP/)
-
+🔗 [![View Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://alex1go.github.io/Tracker-APP/)
 
 **Tracker-APP** — is a web application built using [React](https://reactjs.org/) and [Vite](https://vitejs.dev/) designed to load, display, and compare experiment logs from CSV files. The application visualizes metrics as graphs and simplifies data analysis.
 
